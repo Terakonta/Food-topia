@@ -12,7 +12,7 @@ want to create a platform to connect these restraunts, event organisers, and bas
 of food for the day to different homeless shelters and refugee camps close to them to avoid wastage and both sides benefit.
 
 ## Solution
-We used Java in Android Studios. \\
+We used Java in Android Studios.__
 From the general masses POV: They can actively make contribution to this social cause by doing business with organizations that
 participate in giving away their leftovers. They can even use this app to get coupons, loyalty points and other discounts at those
 outlets. They also get the option to make direct donations to help scale this apps coverage and get in-app points they can use later.
