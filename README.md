@@ -12,6 +12,7 @@ want to create a platform to connect these restraunts, event organisers, and bas
 of food for the day to different homeless shelters and refugee camps close to them to avoid wastage and both sides benefit.
 
 ## Solution
+We used Java in Android Studios.
 From the general masses POV: They can actively make contribution to this social cause by doing business with organizations that
 participate in giving away their leftovers. They can even use this app to get coupons, loyalty points and other discounts at those
 outlets. They also get the option to make direct donations to help scale this apps coverage and get in-app points they can use later.
@@ -26,9 +27,6 @@ they can also monitor their own analytics in much more detail.
 ![image](https://github.com/Terakonta/Food-topia/blob/master/prototype2.jpg)
 ![image](https://github.com/Terakonta/Food-topia/blob/master/prototype3.jpg)
 ![image](https://github.com/Terakonta/Food-topia/blob/master/prototype4.jpg)
-
-## How I built it
-We used Java in Android Studios.
 
 ## What's next for UofTHack_Food_App
 We are planning to incorporate google maps to show the nearest shelter for people to donate as well as showing the amount of food
