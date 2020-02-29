@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="action_settings">Settings</string>
+    <string name="LogIn">Log In</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="signup">Sign Up!</string>
+    <string name="mouthsfeed">People Fed!</string>
+    <string name="zero">0</string>
+    <string name="Leaderboard">Leaderboard</string>
+    <string name="Totalpoints">Total Points</string>
+    <string name="Recently">Recently Visited</string>
+    <string name="donations">Amount Donated</string>
+    <string name="back">Back</string>
+    <string name="title_activity_impact">Map</string>
+</resources>
