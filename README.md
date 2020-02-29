@@ -29,3 +29,6 @@ We are planning to incorporate google maps to show the nearest shelter for peopl
 that has been donated to each of the shelters. In this way, users can see their positive impact in their community in real-time. 
 We hope to scale this app to avoid all sorts of wastage, like clothes and furniture but that will require a different rewarding scheme 
 and incentives.
+
+## Devpost link
+https://devpost.com/software/uofthack_food_app#updates
