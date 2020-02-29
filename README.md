@@ -21,6 +21,9 @@ they dont have to worry about disposing leftover and they can use this app to in
 market themselves and monitor their analytics. Both, organizations and users get to see the leaderboard of top contributers while 
 they can also monitor their own analytics in much more detail.
 
+## Demo
+(https://octodex.github.com/images/yaktocat.png)
+
 ## How I built it
 We used Java in Android Studios.
 
