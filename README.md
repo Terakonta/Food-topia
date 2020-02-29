@@ -22,7 +22,7 @@ market themselves and monitor their analytics. Both, organizations and users get
 they can also monitor their own analytics in much more detail.
 
 ## Demo
-(https://octodex.github.com/images/yaktocat.png)
+![image](https://github.com/Terakonta/Food-topia/blob/master/prototype1.jpg)
 
 ## How I built it
 We used Java in Android Studios.
