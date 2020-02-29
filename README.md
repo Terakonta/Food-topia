@@ -23,6 +23,9 @@ they can also monitor their own analytics in much more detail.
 
 ## Demo
 ![image](https://github.com/Terakonta/Food-topia/blob/master/prototype1.jpg)
+![image](https://github.com/Terakonta/Food-topia/blob/master/prototype2.jpg)
+![image](https://github.com/Terakonta/Food-topia/blob/master/prototype3.jpg)
+![image](https://github.com/Terakonta/Food-topia/blob/master/prototype4.jpg)
 
 ## How I built it
 We used Java in Android Studios.
